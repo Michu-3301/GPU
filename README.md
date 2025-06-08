@@ -32,7 +32,7 @@
 		width: 640px;
 	}
 	#ad {
-		float: left;
+		float: right;
 		width: 160px;
 		min-height: 840px;
 		padding: 10px;
