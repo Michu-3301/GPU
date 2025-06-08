@@ -32,8 +32,7 @@
 		width: 640px;
 	}
 	#ad {
-		 
-      float: left;
+		  float: right;
       width: 160px;
       min-height: 850px;
       padding: 10px;
@@ -49,7 +48,7 @@
 	#gpu {
 		width: 100%;
 		text-align: center;
-		margin-top: 20px;
+		margin-top: 10px;
 	}
 	</style>
 
