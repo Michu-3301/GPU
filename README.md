@@ -27,7 +27,7 @@
 		padding: 10px;
 	}
 	#content {
-		float: left;
+		float: center;
 		padding: 20px;
 		width: 640px;
 	}
