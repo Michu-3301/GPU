@@ -32,11 +32,12 @@
 		width: 640px;
 	}
 	#ad {
-		float: right;
-		width: 160px;
-		min-height: 840px;
-		padding: 10px;
-		background-color: lightgray;
+		 
+      float: left;
+      width: 160px;
+      min-height: 850px;
+      padding: 10px;
+      background-color: lightgray;
 	}
 	#footer {
 		clear: both;
