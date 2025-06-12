@@ -32,11 +32,11 @@
 		width: 640px;
 	}
 	#ad {
-		  float: right;
+	[	  float: right;
       width: 160px;
       min-height: 850px;
       padding: 10px;
-      background-color: lightgray;
+      background-color: lightgray;]
 	}
 	#footer {
 		clear: both;
@@ -46,9 +46,11 @@
 		padding: 20px;
 	}
 	#gpu {
-		width: 100%;
-		text-align: center;
-		margin-top: 10px;
+		[	  float: right;
+      width: 160px;
+      min-height: 850px;
+      padding: 10px;
+      background-color: lightgray;]
 	}
 	</style>
 
