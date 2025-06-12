@@ -65,9 +65,9 @@
 		</div>
 	
 		<div id="nav">
-		    <a href="divy.html">Strona Główna</a><br /><br />
+		    <a href="https://michu-3301.github.io/komp0/">Strona Główna</a><br /><br />
 			Komponenty komputerowe:<br /><br />
-			<a href="Procesor.html">Procesor</a><br /><br />
+			<a href="https://michu-3301.github.io/proc2/">Procesor</a><br /><br />
 			<a href="Płyta Główna.html">Płyta Główna</a><br /><br />
 		    <a href="Pamięć Ram.html">Pamięć RAM</a><br /><br />
 			<a href="Zasilacz.html">Zasilacz</a><br /><br />
