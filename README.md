@@ -29,7 +29,7 @@
 	#content {
 		float: center;
 		padding: 20px;
-		width: 640px;
+		width: 1000x;
 	}
 	#ad {
 	[	  float: right;
